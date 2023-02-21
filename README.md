@@ -5,5 +5,7 @@ Online resources for learning quantum computing.
 
 # Contents
 
-1. [Linear Algebra and Quantum Physics](P2.md)
-2. [Bloch Sphere and Density Operator](P3.md)
+1. [Basic Concepts](P1.md)
+2. [Linear Algebra and Quantum Physics](P2.md)
+3. [Bloch Sphere and Density Operator](P3.md)
+4. [Quantum Circuit](P4.md)
