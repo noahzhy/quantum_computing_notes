@@ -9,3 +9,4 @@ Online resources for learning quantum computing.
 2. [Linear Algebra and Quantum Physics](P2.md)
 3. [Bloch Sphere and Density Operator](P3.md)
 4. [Quantum Circuit](P4.md)
+5. [Reversible Circuit](P5.md)
