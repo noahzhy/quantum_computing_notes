@@ -11,3 +11,8 @@ Online resources for learning quantum computing.
 4. [Quantum Circuit](P4.md)
 5. [Reversible Circuit](P5.md)
 6. [Deutsch-Jozsa Algorithm](P6.md)
+7. [Simon's Algorithm](P7.md)
+8. [Grover's Algorithm](P8.md)
+9. [Quantum Fourier Transform](P9.md)
+10. [Shor's Algorithm](P10.md)
+11. [Fault Tolerance Computing](P11.md)
