@@ -10,3 +10,4 @@ Online resources for learning quantum computing.
 3. [Bloch Sphere and Density Operator](P3.md)
 4. [Quantum Circuit](P4.md)
 5. [Reversible Circuit](P5.md)
+6. [Deutsch-Jozsa Algorithm](P6.md)
